@@ -1,5 +1,5 @@
 {
-    "name": "jildertmiedema/laravel-system-monitor",
+    "name": "jaimyborgman/laravel-system-monitor",
     "description": "Laravel system monitor, export application info to statsd",
     "type": "library",
     "autoload": {
@@ -9,12 +9,12 @@
     },
     "require": {
         "php": "~7.0",
-        "illuminate/config": "5.5.*",
-        "illuminate/console": "5.5.*",
-        "illuminate/container": "5.5.*",
-        "illuminate/database": "5.5.*",
-        "illuminate/redis": "5.5.*",
-        "illuminate/support": "5.5.*",
+        "illuminate/config": "5.6.*",
+        "illuminate/console": "5.6.*",
+        "illuminate/container": "5.6.*",
+        "illuminate/database": "5.6.*",
+        "illuminate/redis": "5.6.*",
+        "illuminate/support": "5.6.*",
         "league/statsd": "^1.4"
     },
     "require-dev": {
